@@ -42,3 +42,6 @@
 [submodule "lib/pico-sdk"]
 	path = lib/pico-sdk
 	url = https://github.com/raspberrypi/pico-sdk.git
+[submodule "lib/nuc970_bsp"]
+	path = lib/nuc970_bsp
+	url = https://github.com/OpenNuvoton/NUC970_NonOS_BSP.git
