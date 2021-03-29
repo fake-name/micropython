@@ -1,6 +1,6 @@
 include ../../py/mkenv.mk
 
-CROSS = 0
+CROSS = 1
 
 # qstr definitions (must come before including py.mk)
 QSTR_DEFS = qstrdefsport.h
